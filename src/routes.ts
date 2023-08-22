@@ -1,5 +1,4 @@
 import { createRouter, RouteRecordRaw, createWebHistory } from "vue-router";
-import NabvarVue from "./components/Nabvar.vue"; "./components/Nabvar.vue"
 
 import About from "./pages/About.vue"
 import Contact from "./pages/Contact.vue"
