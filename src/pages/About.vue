@@ -12,7 +12,7 @@
   <div class="max-w-lg mx-auto my-16 bg-white rounded-lg shadow-md p-5">
     <img class="w-32 h-32 rounded-full mx-auto" src="../assets/imagen.jpeg" alt="Profile picture">
     <h2 class="text-center text-2xl font-semibold mt-3 ">Flor Hernandez</h2>
-    <p class="text-center text-gray-600 mt-1">Software Engineer</p>
+    <p class="text-center text-gray-600 mt-1">EStudiante de software</p>
     
     <div class="mt-5">
       <h3 class="text-xl font-semibold">About me</h3>
